@@ -1,6 +1,6 @@
-# Olá, Mundo!
- Meu primeiro repositório versionado
+# Hello, World!
+ My first versioned repository
 
- Criando meu repositório 
+ Create my repository
  
- linha adicionada diretamente do site (que preguiça)
+
